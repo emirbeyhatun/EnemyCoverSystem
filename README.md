@@ -7,7 +7,7 @@
 - If cover  is closer than the enemy and is safe(no player vision) and free(not occupied by other fellow enemies) then enemy moves to that cover.<br>
 
 
-![EnemyCoverSystem2](https://user-images.githubusercontent.com/29523816/66151469-0e041000-e620-11e9-8bea-109aec0ae59d.gif)
+![EnemyCoverSystem5](https://user-images.githubusercontent.com/29523816/66151853-d053b700-e620-11e9-81db-1eff7aae5113.gif)
 
 
 
