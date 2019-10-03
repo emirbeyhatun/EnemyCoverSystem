@@ -3,7 +3,7 @@
 - Patrols Between Nodes.<br>
 - If cames close with a fellow enemy then they chat for a few secs.<br>
 - If cames contact with the player then based on the distance to the player and any (safe-free)cover in range it decides what to do.<br>
-- If Player is closer than the cover enemy decides to run towards Play and starts shooting.<br>
+- If Player is closer than the cover enemy decides to run towards Player and starts shooting.<br>
 - If cover  is closer than enemy, safe(no player vision) and free(not occupied by other fellow enemies) then it moves to that cover.<br>
 
 
