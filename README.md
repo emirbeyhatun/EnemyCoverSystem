@@ -1,5 +1,5 @@
 # EnemyCoverSystem<br>
-This is a simple enemy taking-cover project that can be used for enemy ai in  games. 
+This is a simple enemy taking-cover project that can be used for enemy ai in  games. Logic can be improved and changed for performance or game design. 
 <br>
 ###### Enemy:<br>
 - Patrols Between Nodes.<br>
