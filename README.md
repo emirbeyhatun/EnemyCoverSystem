@@ -1,4 +1,6 @@
-# EnemyCoverSystem
+# EnemyCoverSystem<br>
+This is a simple enemy taking-cover project that can be used for enemy ai in  games. 
+<br>
 ###### Enemy:<br>
 - Patrols Between Nodes.<br>
 - If cames close with a fellow enemy then they chat for a few secs.<br>
