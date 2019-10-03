@@ -6,7 +6,6 @@
 - If Player is closer than the cover enemy decides to run towards Play and starts shooting.<br>
 - If cover  is closer than enemy, safe(no player vision) and free(not occupied by other fellow enemies) then it moves to that cover.<br>
 
-![EnemyCoverSystem3](https://user-images.githubusercontent.com/29523816/66149153-258cca00-e61b-11e9-9b1a-a1be307a1ddf.gif)
 
 ###### Enemy In Cover:<br>
 -Attacks enemy periodically.
