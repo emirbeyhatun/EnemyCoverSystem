@@ -12,8 +12,8 @@
 
 
 ###### Enemy In Cover:<br>
--Attacks to Player periodically.
--If Player moves to a position where it can see the enemy which makes the cover unsafe for enemy then enemy moves to a safe closest cover, if there aren't any safe cover then it fires on spot
+- Attacks to Player periodically.<br>
+- If Player moves to a position where it can see the enemy which makes the cover unsafe for enemy then enemy moves to a safe closest cover, if there aren't any safe cover then it fires on spot.<br>
 
 
 
