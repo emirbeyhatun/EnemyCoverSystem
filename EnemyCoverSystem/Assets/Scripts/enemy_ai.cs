@@ -364,8 +364,8 @@ public class enemy_ai : MonoBehaviour
             if (Vector3.Angle(dir, sightTransform.forward) < angle)
             {
                 RaycastHit hit;
-                if (debugMode == 1)
-                    Debug.DrawRay(sightTransform.position, dir, Color.red, 0.3f);
+                //if (debugMode == 1)
+                    //Debug.DrawRay(sightTransform.position, dir, Color.red, 0.3f);
 
 
                 if (Physics.Raycast(sightTransform.position, dir, out hit, distance, rayLayer))
